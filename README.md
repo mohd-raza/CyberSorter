@@ -6,7 +6,7 @@ such as :
 * impersonating someone and sending mean messages to others on their behalf or through fake accounts.
 ## Methodology:
 * In this notebook, model has been trained on cyberbully tweets dataset using various **NLP** techniques.
-* The model trained has achieved an accuracy of **82.7%** using SVM classifier.
+* The model trained has achieved an accuracy of **92.5%** using SVM classifier.
 * A simple web-app has been created using the saved model using streamlit.
 * App created has been deployed on streamlit cloud
 ## References:
